@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_component_sitios",
+  "info": {
+    "displayName": "Sitios"
+  },
+  "options": {},
+  "attributes": {
+    "sitioUno": {
+      "type": "component",
+      "component": "component.sitio-uno",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

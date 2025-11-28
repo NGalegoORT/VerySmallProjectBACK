@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "la_universidads",
+  "info": {
+    "singularName": "la-universidad",
+    "pluralName": "la-universidads",
+    "displayName": "La Universidad"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "layout": {
+      "type": "dynamiczone",
+      "components": [
+        "component.carrousel",
+        "component.link",
+        "component.card",
+        "single.video",
+        "single.title",
+        "single.sub-title",
+        "layout.hero-section"
+      ]
+    },
+    "carusel": {
+      "type": "dynamiczone",
+      "components": [
+        "component.carrousel"
+      ]
+    },
+    "Sitios": {
+      "type": "dynamiczone",
+      "components": [
+        "component.sitios"
+      ]
+    }
+  }
+}
