@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_component_campos",
+  "info": {
+    "displayName": "campo"
+  },
+  "options": {},
+  "attributes": {
+    "nameField": {
+      "type": "string"
+    },
+    "placeHolder": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

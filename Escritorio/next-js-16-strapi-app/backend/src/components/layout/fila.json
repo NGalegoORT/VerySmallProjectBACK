@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_layout_filas",
+  "info": {
+    "displayName": "fila"
+  },
+  "options": {},
+  "attributes": {
+    "fila": {
+      "type": "component",
+      "component": "component.in-line",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

@@ -14,13 +14,12 @@
     "layout": {
       "type": "dynamiczone",
       "components": [
-        "component.carrousel",
-        "component.link",
         "component.card",
-        "single.video",
-        "single.title",
-        "single.sub-title",
-        "layout.hero-section"
+        "layout.hero-section",
+        "component.in-line",
+        "layout.fila",
+        "layout.formulario",
+        "component.carrousel"
       ]
     },
     "carusel": {

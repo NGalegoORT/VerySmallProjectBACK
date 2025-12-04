@@ -535,13 +535,12 @@ export interface ApiLaUniversidadLaUniversidad
       Schema.Attribute.Private;
     layout: Schema.Attribute.DynamicZone<
       [
-        'component.carrousel',
-        'component.link',
         'component.card',
-        'single.video',
-        'single.title',
-        'single.sub-title',
         'layout.hero-section',
+        'component.in-line',
+        'layout.fila',
+        'layout.formulario',
+        'component.carrousel',
       ]
     >;
     locale: Schema.Attribute.String & Schema.Attribute.Private;

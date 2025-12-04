@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_layout_formularios",
+  "info": {
+    "displayName": "formulario"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "email": {
+      "type": "email"
+    },
+    "campo": {
+      "type": "component",
+      "component": "component.campo",
+      "repeatable": true
+    },
+    "link": {
+      "type": "component",
+      "component": "component.link",
+      "repeatable": true
+    }
+  },
+  "config": {}
+}

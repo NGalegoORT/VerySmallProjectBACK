@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_component_lines",
+  "info": {
+    "displayName": "line"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

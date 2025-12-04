@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_component_in_lines",
+  "info": {
+    "displayName": "in-line"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "subTitle": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
